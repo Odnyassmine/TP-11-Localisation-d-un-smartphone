@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+id tvInfo
+layout activity_main
+string app_name
+string new_location
+string provider_disabled
+string provider_enabled
+string provider_new_status
