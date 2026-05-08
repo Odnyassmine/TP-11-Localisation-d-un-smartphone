@@ -151,8 +151,7 @@ StringRequest request = new StringRequest(Request.Method.POST, insertUrl,
 - **Dépendance Volley** dans `build.gradle` :
   `implementation 'com.android.volley:volley:1.2.1'`
 
----
-```
+
 
 ## 📸 Aperçu
 
@@ -167,4 +166,4 @@ L'application nécessite les permissions suivantes :
 - `INTERNET` : Pour envoyer les données au serveur.
 - `READ_PHONE_STATE` : Pour récupérer l'IMEI de l'appareil.
 
----
+
